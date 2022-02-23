@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a soliciter, or, The Tricks and quillets of a petty fogger with his manifold knaveries, cheats, exhortations and other villanies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31705</idno>
+            <idno type="STC">Wing C1989</idno>
+            <idno type="STC">ESTC R29192</idno>
+            <idno type="EEBO-CITATION">10849114</idno>
+            <idno type="OCLC">ocm 10849114</idno>
+            <idno type="VID">46114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a soliciter, or, The Tricks and quillets of a petty fogger with his manifold knaveries, cheats, exhortations and other villanies.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for K.C.I.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawyers --  England.</term>
+               <term>Law --  Great Britain --  Anecdotes</term>
+               <term>Character sketches.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46114:1"/>
+            <pb facs="tcp:46114:1" rendition="simple:additions"/>
+            <p>THE CHARACTER OF A SOLICITER. Or the Tricks and Quillets of a Pettyfogger.</p>
+            <p>With his manifold Knaveries, Cheats, Extortions, and other Villanies.</p>
+            <p>LONDON, Printed for K.C.I.F. 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="character">
+            <pb facs="tcp:46114:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46114:2" rendition="simple:additions"/>
+            <head>THE Character OF A SOLICITER.</head>
+            <p>A <hi>Soliciter</hi> is a <hi>Pet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yfogging Sophiſter:</hi> one, whom by the ſame Figure that a <hi>North-Country Pedler</hi> is a <hi>Merchant-man,</hi> you may <hi>ſtile</hi> a <hi>Lawyer. List</hi> him an <hi>Attorney,</hi> and you ſmother <hi>Tom. I humb</hi> in a pudding. The very name of a <hi>Strivener</hi> out<g ref="char:EOLhyphen"/>reaches him, and he is ſwallowed up in the praiſe, like Sir <hi>Hudi<g ref="char:EOLhyphen"/>bras</hi> in a great ſaddle, nothing to be ſeen but the <hi>giddy Feathers</hi> in his <hi>Crown.</hi>
+            </p>
+            <p>Some ſay <hi>he</hi>'s a Gentleman, but <hi>he</hi> becomes the <hi>Epithet</hi> as a Swines ſnout doth a <hi>Carbuncle;</hi> he is juſt ſuch another <hi>Dunghil-Rampant.</hi> The ſilly Country-man (who ſeeing an <hi>Ape</hi> in a <hi>Scar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> Coat, bleſt his young <hi>Worſhip,</hi> and gave his <hi>Lordſhip</hi> joy) did not ſlander his Complement with worſe application, than he th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="2" facs="tcp:46114:3"/>names him a <hi>Law-giver.</hi> The <hi>Cook</hi> that ſerved up a <hi>Rope</hi> in a <hi>Pye,</hi> (to continue the Frolick) might have wrap'd up ſuch a <hi>Pet<g ref="char:EOLhyphen"/>tyfogger</hi> as this in his bill of Fare.</p>
+            <p>He is a <hi>Will-with-a-Wiſp,</hi> a <hi>Wit</hi> whither thou woo't; <hi>Proteus</hi> has not more ſhapes, than he can perform Offices; he can inſtruct with the <hi>Counſellour, Plead</hi> as an <hi>Attorney,</hi> he has all the <hi>tricks</hi> and <hi>quillets</hi> of an <hi>Informer,</hi> nay, and a <hi>Bum</hi> too for a need: in a word, he is a <hi>Jack of all Trades,</hi> and his ſhatter'd brain, like a crackt Looking-glaſs, repreſents a thouſand fancies. He calls himſelf Eſquire of the <hi>Quill;</hi> but to ſee how he tugs at his pen, and belaboureth his half amazed Clyents with a Cudgel of cramp words, it would make a Dog break his Halter.</p>
+            <p>This jugling <hi>Skip Jack,</hi> having lately been put to his laſt ſhift; has metamorphoſed a Needle into a <hi>Gooſe-Feather,</hi> and the <hi>ſole</hi> of an old <hi>ſhoe,</hi> into a ſheet of <hi>Paper,</hi> for the beſt of his profeſſion have been forlorn <hi>Taylors,</hi> out-caſt <hi>Brokers,</hi> drunken <hi>Coblers,</hi> or the off-ſprings of ſuch like Rabble-rout.</p>
+            <p>He huggs the <hi>Papers,</hi> as the <hi>Devil</hi> hugg'd the <hi>Witch;</hi> for they are an advancement of his Science, theſe frisk about him like a ſwarm of Bees; yet he is a Man of vaſt practice if he has but half a ſcore of 'um. If his lowſie <hi>Clyent</hi> chance to recover an old <hi>Rotten Barn,</hi> or a <hi>Weather-beaten Cottage,</hi> he will be ſure to have two third parts for a <hi>quantum mervit.</hi>
+            </p>
+            <p>He is Lord Paramount among the ſhifting <hi>Bayliffs,</hi> and a ſworn <hi>brother</hi> to the <hi>Marſhalſ-men,</hi> and is behind none of them at the extortive faculty, having the confidence to demand, <hi>Item,</hi> for his pains and labour, when all the while he does nothing but <hi>hover</hi> over a <hi>Quart-pot.</hi> He is as offenſive to the <hi>Attorneys,</hi> as <hi>Flies</hi> are to a gal'd <hi>Horſe,</hi> and whereas their <hi>ne plus ultra</hi> is ten groats, Mr. <hi>Soliciter</hi> forfooth, claims double Fees with Authori<g ref="char:EOLhyphen"/>ty;
+<pb n="3" facs="tcp:46114:3"/>and if the Clyent prove ſo ſaucy to deny it, he will rage like <hi>Tom of bedlam,</hi> but if that will not prevail, he'l caſt a <hi>ſqueezing</hi> look, like that of <hi>Veſpatian,</hi> as if he were <hi>breeding</hi> over a <hi>Cloſe<g ref="char:EOLhyphen"/>ſtool.</hi>
+            </p>
+            <p>He is a kind of <hi>Cormorant,</hi> that fiſhes for others, but feeds himſelf; the miſery is, he fiſhes without the <hi>Cormorants</hi> property, a <hi>Rope</hi> to ſtrengthen the <hi>Gullet,</hi> and make him diſgorge. I care not much if I untwiſt my <hi>pettyfogging</hi> Gentleman, and give him the Receipt of this grand <hi>Catholicon.</hi>
+            </p>
+            <p>Take a notorious <hi>Vagabond,</hi> one that for his good behaviour hath paid the <hi>exciſe</hi> of his <hi>Ears,</hi> and ſo fled his Country like a <hi>Runnagado Jew;</hi> next the ſpurious <hi>Relique</hi> of a <hi>Mountebank,</hi> train'd up in <hi>Bartholomew-Fair;</hi> add to theſe a mortified <hi>Bank<g ref="char:EOLhyphen"/>rupt,</hi> and one that has ſcarce learnt his <hi>Abcedary:</hi> Theſe with one that had a ſmall <hi>Knock</hi> in the <hi>Cradle,</hi> and been fed with the <hi>Excrements</hi> of the <hi>Man</hi> in the <hi>Moon,</hi> together with the <hi>by-blow</hi> of ſome ſantaſtical <hi>Poetaſter,</hi> who has had ſome in-ſight in a <hi>Scotch</hi> ſieve full of <hi>ballads</hi> and merry <hi>beuks.</hi> Theſe are the ſimples of this weedy compound (a kind of vafrous <hi>Hotch potch</hi>) a <hi>petty-fogging Soliciter.</hi>
+            </p>
+            <p>In the Society of true and genuine <hi>Lawyers,</hi> he is like an <hi>Owl</hi> among ſo many <hi>Lapwings,</hi> and is no more fit to converſe with them, then a <hi>Hog-herd</hi> is to preach a <hi>Sermon,</hi> or a <hi>Cinder vvench</hi> to wait upon a <hi>Counteſs.</hi>
+            </p>
+            <p>Never did the <hi>Fox</hi> play the Craft with the <hi>Geeſe,</hi> as this <hi>ala<g ref="char:EOLhyphen"/>mode</hi> upſtart gulls the Country bumpkins: ſo that the inſinuated boobies have no more Wit than to prog his guts with <hi>Turkies, Geeſe, pullets, Chines</hi> of <hi>bacon, et caetera,</hi> as if he were to be fat<g ref="char:EOLhyphen"/>ted for a <hi>beelzebian</hi> ſacrifice, whilſt their wives and children lead the lives of half ſtarved <hi>pythagoreans.</hi> But this is not all; this
+<pb n="4" facs="tcp:46114:4"/>
+               <hi>Stygian Crocodile</hi> with his <hi>Iron Lungs,</hi> and <hi>brazen Face</hi> dares u<g ref="char:EOLhyphen"/>ſurp the Office of Attorney-ſhip (as I hinted before) and no ſooner hears of a <hi>puny Lad</hi> that is carved out for a <hi>Clerious,</hi> but ſtrait he <hi>yelps</hi> and <hi>yawns</hi> till he has him in his <hi>Clutches,</hi> and for a ſmall ſum of Money got at the Plough tail, will undertake to make him a <hi>Barriſter,</hi> though he can ſcarce read his <hi>Pater-Noſter</hi> He is ſo expert at <hi>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xing Magick,</hi> that he has a <hi>ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> for every <hi>degree</hi> and <hi>Quality,</hi> he complements <hi>Gentility,</hi> he flatters. <hi>Nobili<g ref="char:EOLhyphen"/>ty,</hi> and ſtrews a whole ſackfull of ſpungy <hi>Rhetorick</hi> among the vulgar; the one hugs him, the other plays at Noddy, and a third ſort admires him, and well they may, ſince he has not his equal in the whole Goaldom of <hi>Ludgate.</hi>
+            </p>
+            <p>This very name deciphers his practice, <hi>ſolus citat,</hi> he alone is a<g ref="char:EOLhyphen"/>ble to ſet a Town by the Ears, and that is a trick of the Devil, but no body doubts him to be of the <hi>cloven-hearted tribe,</hi> whom <hi>Old Nick</hi> has <hi>ſtigmat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zed</hi> with his <hi>tripple claw;</hi> nor do <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e doubt his Commiſſion to play his Pranks at random while he is hate on Earth, for as ſoon as my Lady <hi>Atropos</hi> cryes <hi>Exit,</hi> away he muſt hie to his ſnake-hair'd Grandam <hi>Meg<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rn,</hi> and needs <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> go, ſince the Devil drive him.</p>
+            <p>He writes a Bill of coſt in ſuch worm eaten characters, that 'tis paſt the skill of a <hi>Roſie-crucian</hi> to diſcover the <hi>Apo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aliptical</hi> meaning; yet for all that, he will not abate you an ace of the <hi>ſun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ma totalis,</hi> and that to be ſure ſhall be plain enough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherefore he may very fitly be câiled the <hi>Inquiſition</hi> of the <hi>Purſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or (in a plainer ſence) an <hi>Anthentick Gypſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> thet <hi>nips</hi> your <hi>bung</hi> with a canting Engine: and more then that he ſcorns to cheat you in <hi>hugger-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugger,</hi> but will not fail to do it before your <hi>Face:</hi> He is like the Man that tryed any tooth good Barber, rather then ſtand out for a Wrangler, if he can pump no chink out of you, he will manage your cauſe for a break-faſt, being a notable Artiſt at ſpunging; Oh! he's a terrible ſlaughter man at a Thankſgiving Dinner.</p>
+            <pb n="5" facs="tcp:46114:4"/>
+            <p>He out-dives a <hi>Bayliff</hi> in all his cheating faculties, and I know none out-ſtrips him, except his Infernal Grandfather.</p>
+            <p>In fine, he is the <hi>Yeomans Horſleech,</hi> the Gentlemans <hi>Rubbing<g ref="char:EOLhyphen"/>bruſh,</hi> and the Courtiers <hi>quid pro quo.</hi> He is the <hi>ſummum bonu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> of <hi>Knavery,</hi> in Judgement a meer <hi>Pigmy,</hi> in ſhew the Beard of a <hi>Demi-blazing-ſtar:</hi> to be brief, he is like a <hi>Lamp</hi> without <hi>Oyl,</hi> a <hi>Trumpet</hi> without a ſound, a <hi>ſmoak</hi> without <hi>Fire,</hi> a <hi>Fiddle</hi> out of <hi>tune,</hi> or a <hi>bell</hi> without a <hi>clapper;</hi> and differs from a <hi>Lawyer</hi> as a <hi>ſhrimp</hi> doth from a <hi>Lebſter,</hi> a <hi>Frog</hi> from an <hi>Eleph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt,</hi> or a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from an <hi>Eagle.</hi>
+            </p>
+            <p>But once more to ſingle out my <hi>Quacking cauſe-ſplitter,</hi> his Fate (for I know you would fain ſee an end of him) is either a <hi>whipping Andit,</hi> when he is tongue-tyed by a Learned thong of ſevere Examinations: or elſe he meets his <hi>paſſing-peal</hi> in a clamo<g ref="char:EOLhyphen"/>rous mutiny of <hi>Tyburnian</hi> ſpectators, or (if he paſs muſter with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe) his aſſured Deſtiny being dead, is to be kick'd up and down <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke a <hi>Foot-ball</hi> to keep the <hi>Devils</hi> in action.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
